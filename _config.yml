@@ -25,7 +25,7 @@ search_full_content: true
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
-repository: bulbil/group-site
+repository: dh-in-the-classroom/group-site
 
 # Outputting
 permalink: /:categories/:title/
