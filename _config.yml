@@ -116,12 +116,12 @@ prose:
           element: "textarea"
           label: "Project Excerpt"
           placeholder: "Enter a brief description to appear under the project thumbnail"
-      - name: "header.overlay_image"
+      - name: "overlay_image"
         field:
           element: "text"
           label: "Header Image"
           placeholder: "Paste a URL to a header image"
-      - name: "header.teaser"
+      - name: "teaser"
         field:
           element: "text"
           label: "Teaser Image"
