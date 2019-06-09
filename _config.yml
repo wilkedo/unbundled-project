@@ -96,3 +96,54 @@ tag_archive:
   type: liquid
   path: /tags/
 
+# Example Prose.io Configuration
+
+prose:
+  rooturl: '_projects'
+  ignore:
+    - index.md
+    - _config.yml
+    - /_layouts
+    - /_includes
+  metadata:
+    _projects:
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+      - name: "excerpt"
+        field:
+          element: "textarea"
+          label: "Project Excerpt"
+          placeholder: "Enter a brief description to appear under the project thumbnail"
+      - name: "header.overlay_image"
+        field:
+          element: "text"
+          label: "Header Image"
+          placeholder: "Paste a URL to a header image"
+      - name: "header.teaser"
+        field:
+          element: "text"
+          label: "Teaser Image"
+          placeholder: "Paste a URL to a thumbnail image"
+      - name: site_contributors
+        field:
+          label: Example of a Contributors field
+          element: multiselect
+          alterable: true
+          placeholder: "Choose from site contributors"
+          options:
+            - name: "Katie Rawson"
+              value: "katie rawson"
+            - name: "George Romero"
+              value: george romero
+            - name: "Roberto Vargas"
+              value: roberto vargas
+            - name: "Nabil Kashyap"
+              value: nabil kashyap
+      - name: "published"
+        field:
+          element: checkbox
+          label: "Published"
+          help: Uncheck this box if the is not yet ready to be published.
+          value: true
