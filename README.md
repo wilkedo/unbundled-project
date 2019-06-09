@@ -1,4 +1,4 @@
-# :squirrel: DH in the Classroom :squirrel:
+# :open_hands: DH in the Classroom :open_hands:
 
 Collaborative static web development example. This repo is for helping us think through how to create a lightweight, secure, and collaborative website leveraging existing platforms.
 
