@@ -1,0 +1,27 @@
+<h2>Contributors</h2>
+<div class="contributors-gallery">
+
+{% for contributor in page.contributors %}
+
+<div class="contributor">
+{% if contributor.image %}
+
+<div class="avatar" style="background-image:url({{ contributor.image }});" alt="{{ contributor.name }}"></div>
+{% endif %}
+<div class="bio {% if contributor.image %}has-image{% endif %}">
+
+{% if contributor.twitter %}
+<a style="display:inline; float: left;" href="https://twitter.com/{{ contributor.twitter }}" itemprop="sameAs" rel="nofollow noopener noreferrer">
+    <i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i>
+</a>
+{% endif %}
+
+{% assign n = contributor.name | prepend: '<strong>' | append: '</strong> ' %} 
+
+{{ contributor.bio | prepend: n | markdownify }}
+
+</div>
+<div class="clearfix"></div>
+</div>
+{% endfor %}
+</div>
