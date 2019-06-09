@@ -73,7 +73,7 @@ defaults:
       read_time: false
       comments: # true
       share: false
-      related: true
+      related: false
       btn_class: 'btn--inverse'
   - scope:
       path: ""
@@ -86,7 +86,7 @@ defaults:
       read_time: false
       comments: # true
       share: false
-      related: true
+      related: false
       btn_class: 'btn--inverse'
 
 category_archive:
