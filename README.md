@@ -4,14 +4,16 @@ Collaborative static web development example. This repo is for helping us think 
 
 What are some of the advantages of this strategy? What are some of the drawbacks?
 
-- Join the repository
-- Add a file
-- Commit
+1) Login to GitHub
+2) Accept the repository invitation (by clicking the link in the email or navigating to [the repository URL](https://github.com/dh-in-the-classroom/group-site)
+3) Add a file to the `_projects` library
+4) :scissors: Cut/Paste the contents of your `index.md` file
+5) Commit your changes
 
-Extensions:
+### Extensions
 
-- Prose.io
-- StackEdit
+- [Prose.io](http://prose.io)
+- [Hypothes.is](https://web.hypothes.is/)
 
 ---
 
