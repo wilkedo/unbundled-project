@@ -4,11 +4,11 @@ Collaborative static web development example. This repo is for helping us think 
 
 What are some of the advantages of this strategy? What are some of the drawbacks?
 
-1) Login to GitHub
-2) Accept the repository invitation (by clicking the link in the email or navigating to [the repository URL](https://github.com/dh-in-the-classroom/group-site)
-3) Add a file to the `_projects` library
-4) :scissors: Cut/Paste the contents of your `index.md` file
-5) Commit your changes
+1) [**Login**](https://github.com) to GitHub
+2) **Accept invitation** to the repository (by clicking the link in the email or navigating to [the repository URL](https://github.com/dh-in-the-classroom/group-site)
+3) [**Create new file**](https://help.github.com/en/articles/creating-new-files) to the `_projects` library
+4) :scissors: **Cut/Paste** the contents of your `index.md` file
+5) **Commit** (i.e, save) your changes
 
 ### Extensions
 
