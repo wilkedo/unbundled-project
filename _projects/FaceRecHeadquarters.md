@@ -1,6 +1,5 @@
 ---
-title: "Heresy and the idea of indigeniety"
-excerpt: 'Since the appropriation of the Haitian zonbi into American popular culture, zombie narratives have reflected worries and tensions in American society.'
+title: "Companies Developing Face Recognition Software"
 teaser: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Zombies_NightoftheLivingDead.jpg/640px-Zombies_NightoftheLivingDead.jpg"
 overlay_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Florentine_Codex_IX_Aztec_Warriors.jpg/800px-Florentine_Codex_IX_Aztec_Warriors.jpg"
 contributors:
