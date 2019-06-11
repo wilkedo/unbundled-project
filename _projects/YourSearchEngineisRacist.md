@@ -9,7 +9,7 @@ contributors:
     bio: Born in Cleveland, OH, she now lives in Central PA and wishes she lived in a bigger city with fewer zombies.
     twitter: cyoung2019
   - name: Megan Grady
-    image:https://s3.amazonaws.com/api-profiles/mmgrady-V1EekpQFV.jpg
+    image: "https://s3.amazonaws.com/api-profiles/mmgrady-V1EekpQFV.jpg"
     bio: Born in Indianapolis, IN, she now lives in Indianapolis and wishes she lived anywhere else.
   - name: Angela Stangl
     image: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/1-month-old_kitten_35.jpg/320px-1-month-old_kitten_35.jpg
