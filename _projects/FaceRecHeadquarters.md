@@ -1,11 +1,11 @@
 ---
 title: "Companies Developing Face Recognition Software"
 teaser: "https://images.homedepot-static.com/productImages/ed795f6d-43b1-4c23-b0d0-5516fe8c8934/svn/defiant-fake-security-cameras-thd-iccd-64_1000.jpg"
-overlay_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Florentine_Codex_IX_Aztec_Warriors.jpg/800px-Florentine_Codex_IX_Aztec_Warriors.jpg"
+overlay_image: "https://images.homedepot-static.com/productImages/ed795f6d-43b1-4c23-b0d0-5516fe8c8934/svn/defiant-fake-security-cameras-thd-iccd-64_1000.jpg"
 contributors:
-  - name: Bernardino de Sahagún
+  - name: Denisse Solis
     image: https://upload.wikimedia.org/wikipedia/commons/b/bd/Bernardino_de_Sahagun.jpg
-    bio: 16th Century Franciscan Missionary
+    bio: Librarian, Mother of Murphy the Cat.
   - name: Lance C. Thurner
     image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Codex_Duran%2C_page_1.jpg/800px-Codex_Duran%2C_page_1.jpg
     bio: My Bio
