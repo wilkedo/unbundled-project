@@ -1,5 +1,6 @@
 ---
 title: "Companies Developing Face Recognition Software"
+excerpt: "Company locations"
 teaser: "https://images.homedepot-static.com/productImages/ed795f6d-43b1-4c23-b0d0-5516fe8c8934/svn/defiant-fake-security-cameras-thd-iccd-64_1000.jpg"
 overlay_image: "https://images.homedepot-static.com/productImages/ed795f6d-43b1-4c23-b0d0-5516fe8c8934/svn/defiant-fake-security-cameras-thd-iccd-64_1000.jpg"
 contributors:
@@ -9,7 +10,7 @@ contributors:
   - name: Lance C. Thurner
     image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Codex_Duran%2C_page_1.jpg/800px-Codex_Duran%2C_page_1.jpg
     bio: My Bio
-  - Rupa Pillai  
+  - name: Rupa Pillai  
 ---
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1Vm6w4kMwICj621ZCF-wEnGTx49BZKxzm" width="640" height="480"></iframe>
