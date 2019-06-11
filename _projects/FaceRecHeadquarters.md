@@ -9,6 +9,7 @@ contributors:
   - name: Lance C. Thurner
     image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Codex_Duran%2C_page_1.jpg/800px-Codex_Duran%2C_page_1.jpg
     bio: My Bio
+  - Rupa Pillai  
 ---
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Vm6w4kMwICj621ZCF-wEnGTx49BZKxzm" width="640" height="480"></iframe>
