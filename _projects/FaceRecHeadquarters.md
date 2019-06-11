@@ -1,6 +1,6 @@
 ---
 title: "Companies Developing Face Recognition Software"
-teaser: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Zombies_NightoftheLivingDead.jpg/640px-Zombies_NightoftheLivingDead.jpg"
+teaser: "https://images.homedepot-static.com/productImages/ed795f6d-43b1-4c23-b0d0-5516fe8c8934/svn/defiant-fake-security-cameras-thd-iccd-64_1000.jpg"
 overlay_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Florentine_Codex_IX_Aztec_Warriors.jpg/800px-Florentine_Codex_IX_Aztec_Warriors.jpg"
 contributors:
   - name: Bernardino de Sahagún
