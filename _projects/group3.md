@@ -1,13 +1,14 @@
 
 
 ---
-title: "How Zombies Inform our Understanding of Racism"
+title: "Markup Bodies"
 excerpt: 'Since the appropriation of the Haitian zonbi into American popular culture, zombie narratives have reflected worries and tensions in American society.'
-overlay_image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Zombies_NightoftheLivingDead.jpg/640px-Zombies_NightoftheLivingDead.jpg'
-teaser: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Zombies_NightoftheLivingDead.jpg/640px-Zombies_NightoftheLivingDead.jpg"
+overlay_image: 'https://digital.librarycompany.org/islandora/object/Islandora:2718/datastream/JP2'
+teaser: "https://digital.librarycompany.org/islandora/object/Islandora:2718/datastream/JP2"
 contributors:
-  - name: 
-  - name: 
+  - name: Max Dugan
+  - name: Kate Humberstone
+  - name: Aylin Malcolm
 ---
 
 <iframe src="https://slides.com/maxdugan/deck/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
