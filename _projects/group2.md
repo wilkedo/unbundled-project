@@ -1,8 +1,10 @@
 ---
 
 title: "Race & Technology Map"
+excerpt:
 overlay_image: 'https://upload.wikimedia.org/wikipedia/commons/e/eb/Bracelet_%C3%A9lectronique.JPG'
 teaser: "https://upload.wikimedia.org/wikipedia/commons/d/da/Red_Light_Camera.jpg"
+contributors:
 
 ---    
 
