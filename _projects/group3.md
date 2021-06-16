@@ -13,7 +13,7 @@ contributors:
 
 ## Introduction
 
-<p>"Histories of slavery offer digital humanists a cautionary tale, a lesson in the kind of death dealing that happens when enumerating, commodifying, and calculating bodies becomes naturalized. Doing truly embodied and data-rich histories of slavery requires similarly remixing conceptual, discursive, and archival geographies, with deliberate, pained intimacy, and, likely, some violence. But black digital practice challenges slavery scholars and digital humanists to feel this pain and infuse their work with a methodology and praxis that centers the descendants of the enslaved, grapples with the uncomfortable, messy, and unquantifiable, and in doing so, refuses disposability." [^1]: </p>
+<p>"Histories of slavery offer digital humanists a cautionary tale, a lesson in the kind of death dealing that happens when enumerating, commodifying, and calculating bodies becomes naturalized. Doing truly embodied and data-rich histories of slavery requires similarly remixing conceptual, discursive, and archival geographies, with deliberate, pained intimacy, and, likely, some violence. But black digital practice challenges slavery scholars and digital humanists to feel this pain and infuse their work with a methodology and praxis that centers the descendants of the enslaved, grapples with the uncomfortable, messy, and unquantifiable, and in doing so, refuses disposability."[^1] </p>
 
 ## References
 
