@@ -4,10 +4,11 @@
     background: #000;
 }
 
-footer {
+footer.page__meta {
     display: flex;
     justify-content: space-between;
     margin-right: 0;
+    margin-top: 0;
 }
 
 .page__footer-follow, .page__footer-copyright {
@@ -17,7 +18,6 @@ footer {
 .page__footer-copyright {
     font-family: $header-font-family;
     font-size: $type-size-6;
-    text-align: right;
 }
 
 
@@ -104,6 +104,9 @@ footer {
   clear: both;
 }
 
+.page__footer {
+  position: unset;
+}
 
 .contributors-gallery .contributor {
   
