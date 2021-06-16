@@ -1,10 +1,8 @@
 ---
-
 title: "Underwater Cable Networks: A Timeline of Guam"
 excerpt: 'The cable lines that have rolled out over the years that run through and under Guam show telecommunication networks that are material evidence of empire and colonialism's legacies that drive technology and the internet's global systems'
 overlay_image: 'https://upload.wikimedia.org/wikipedia/commons/3/34/Guam2021OSM.png'
 teaser: "https://upload.wikimedia.org/wikipedia/commons/3/34/Guam2021OSM.png"
-
 ---
  
 # Underwater Cable Networks: A Timeline of Guam
