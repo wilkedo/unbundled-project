@@ -1,17 +1,10 @@
 ---
 title: "Underwater Cable Networks: A Timeline of Guam"
-excerpt: 'Since the appropriation of the Haitian zonbi into American popular culture, zombie narratives have reflected worries and tensions in American society.'
-overlay_image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Zombies_NightoftheLivingDead.jpg/640px-Zombies_NightoftheLivingDead.jpg'
-teaser: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Zombies_NightoftheLivingDead.jpg/640px-Zombies_NightoftheLivingDead.jpg"
+excerpt: 'The cable lines that have rolled out over the years that run through and under Guam show telecommunication networks that are material evidence of empire and colonialism's legacies that drive technology and the internet's global systems'
+overlay_image: 'https://upload.wikimedia.org/wikipedia/commons/3/34/Guam2021OSM.png'
+teaser: "https://upload.wikimedia.org/wikipedia/commons/3/34/Guam2021OSM.png"
 contributors:
-  - name: Excellent Senior
-    bio: ('19) is an English major and Gender and Sexuality studies and Peace and Conflict studies dual-minor. She is interested continuing counter-hegemonic work in the non-profit sector next year, specifically working in the Pittsburgh Queer Equality Center.
-    image: /assets/images/tinder.jpg
-  - name: George Romero
-    image: https://pbs.twimg.com/profile_images/359264700/RomeroAvatar_400x400.jpg
-    bio: Born in the New York City borough of the Bronx. He is the son of Ann (Dvorsky) and George Romero, a commercial artist. His mother was Lithuanian and his father moved from Spain to Cuba as a child.
-    twitter: OfficialRomero
----
+ 
 
 # Underwater Cable Networks: A Timeline of Guam
 
