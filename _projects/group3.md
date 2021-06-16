@@ -21,3 +21,5 @@ Since the appropriation of the Haitian *zonbi*[^1] into American popular culture
 ## References
 
 Johnson, Jessica Marie. “Markup Bodies: Black [Life] Studies and Slavery [Death] Studies at the Digital Crossroads.” Social Text 36, no. 4 (2018).
+
+Header image: Frontispiece for the Curious Adventures of Captain Stedman (1809). Credit: Library Company of Philadelphia.
