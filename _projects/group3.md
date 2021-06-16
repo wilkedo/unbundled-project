@@ -5,13 +5,20 @@
 
 ## Contributors:
   - Max Dugan
-  - Aylin Malcom
+  - Aylin Malcolm
   - Katy Humberstone
+  - 
+---
+title: "Markup Bodies"
+excerpt: 'Since the appropriation of the Haitian zonbi into American popular culture, zombie narratives have reflected worries and tensions in American society.'
+overlay_image: 'https://digital.librarycompany.org/islandora/object/Islandora:2718/datastream/JP2'
+teaser: "https://digital.librarycompany.org/islandora/object/Islandora:2718/datastream/JP2"
+contributors:
+  - name: Max Dugan
+  - name: Kate Humberstone
+  - name: Aylin Malcolm
 ---
 
-![image](https://user-images.githubusercontent.com/85992404/122269494-2d66cd80-ced5-11eb-8cb5-dcd1f8408502.png)
-
-#### Library Company of Philadelphia.
 
 <iframe src="https://slides.com/maxdugan/deck/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
