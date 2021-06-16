@@ -9,15 +9,6 @@ contributors:
   - name: Aylin Malcolm
 ---
 
-# Markup Bodies Black [Life] Studies and Slavery [Death] Studies at the Digital Crossroads - Jessica Marie Johnson
-
-## Contributors:
-  - Max Dugan
-  - Aylin Malcolm
-  - Katy Humberstone
- 
-
-
 <iframe src="https://slides.com/maxdugan/deck/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ## Introduction
