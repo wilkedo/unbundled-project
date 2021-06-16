@@ -1,7 +1,7 @@
 ---
 title: "Race & Technology Map"
-overlay_image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Zombies_NightoftheLivingDead.jpg/640px-Zombies_NightoftheLivingDead.jpg'
-teaser: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Zombies_NightoftheLivingDead.jpg/640px-Zombies_NightoftheLivingDead.jpg"
+overlay_image: 'https://upload.wikimedia.org/wikipedia/commons/e/eb/Bracelet_%C3%A9lectronique.JPG'
+teaser: "https://upload.wikimedia.org/wikipedia/commons/d/da/Red_Light_Camera.jpg"
 ---    
 
 
