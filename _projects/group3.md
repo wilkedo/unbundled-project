@@ -1,13 +1,10 @@
-
-
----
 # Markup Bodies Black [Life] Studies and Slavery [Death] Studies at the Digital Crossroads - Jessica Marie Johnson
 
 ## Contributors:
   - Max Dugan
   - Aylin Malcolm
   - Katy Humberstone
-  - 
+ 
 ---
 title: "Markup Bodies"
 excerpt: '"Histories of slavery offer digital humanists a cautionary tale, a lesson in the kind of death dealing that happens when enumerating, commodifying, and calculating bodies becomes naturalized."'
