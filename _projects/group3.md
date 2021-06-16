@@ -1,8 +1,8 @@
 ---
 title: "Markup Bodies"
 excerpt: '"Histories of slavery offer digital humanists a cautionary tale, a lesson in the kind of death dealing that happens when enumerating, commodifying, and calculating bodies becomes naturalized."'
-overlay_image: 'https://digital.librarycompany.org/islandora/object/Islandora:2718/datastream/JP2'
-teaser: "https://digital.librarycompany.org/islandora/object/Islandora:2718/datastream/JP2"
+overlay_image: 'https://digital.librarycompany.org/adore-djatoka/resolver?url_ver=Z39.88-2004&svc_id=info%3Alanl-repo/svc/getRegion&svc_val_fmt=info%3Aofi/fmt%3Akev%3Amtx%3Ajpeg2000&svc.format=image/jpeg&rft_id=http%3A//digital.librarycompany.org/islandora/object/Islandora%253A2718/datastream/JP2/view%3Ftoken%3D467b4c13b0eb31d854af73fa88bf1cc3e07011b0bfa6b94a76258219dcfa8fbc&svc.region=0%2C0%2C2056%2C2828'
+teaser: "https://digital.librarycompany.org/adore-djatoka/resolver?url_ver=Z39.88-2004&svc_id=info%3Alanl-repo/svc/getRegion&svc_val_fmt=info%3Aofi/fmt%3Akev%3Amtx%3Ajpeg2000&svc.format=image/jpeg&rft_id=http%3A//digital.librarycompany.org/islandora/object/Islandora%253A2718/datastream/JP2/view%3Ftoken%3D467b4c13b0eb31d854af73fa88bf1cc3e07011b0bfa6b94a76258219dcfa8fbc&svc.region=0%2C0%2C2056%2C2828"
 contributors:
   - name: Max Dugan
   - name: Kate Humberstone
