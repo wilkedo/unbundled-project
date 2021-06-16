@@ -1,5 +1,3 @@
-
-
 ---
 title: "Markup Bodies"
 excerpt: 'Since the appropriation of the Haitian zonbi into American popular culture, zombie narratives have reflected worries and tensions in American society.'
@@ -11,6 +9,7 @@ contributors:
   - name: Aylin Malcolm
 ---
 
+
 <iframe src="https://slides.com/maxdugan/deck/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ## Introduction
@@ -19,5 +18,5 @@ Since the appropriation of the Haitian *zonbi*[^1] into American popular culture
 
 ## References
 
-[^1]: Here is a footnote example.
+[^1]: Johnson, Jessica Marie. “Markup Bodies: Black (Life) Studies and Slavery (Death) Studies at the Digital Crossroads.” *Social Text* 36, no. 4 (2018).
 [^2]: Here is another footnote example.
