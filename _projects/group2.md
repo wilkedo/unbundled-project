@@ -7,7 +7,7 @@ teaser: "https://upload.wikimedia.org/wikipedia/commons/d/da/Red_Light_Camera.jp
 contributors: 
 contributors:
   - name: Robin Pokorski
-  - name:Luna Sarti
+  - name: Luna Sarti
   - name: Emily Lyon 
 
 ---    
