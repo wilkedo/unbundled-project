@@ -5,7 +5,8 @@ excerpt: The cable lines that have rolled out over the years that run through an
 overlay_image: 'https://upload.wikimedia.org/wikipedia/commons/3/34/Guam2021OSM.png'
 teaser: 'https://upload.wikimedia.org/wikipedia/commons/3/34/Guam2021OSM.png'
 contributors: 
-  - # Clari and Stephanie
+  - name: Clari
+  - name: Stephanie
 ---
 
 # Underwater Cable Networks: A Timeline of Guam
