@@ -12,8 +12,8 @@ contributors:
 ---    
 
 ## References
-
-[^1]: Alex Najibi. "Racial Discrimination in Face Recognition Technology” https://sitn.hms.harvard.edu/flash/2020/racial-discrimination-in-face-recognition-technology/
+Alex Najibi. "Racial Discrimination in Face Recognition Technology” https://sitn.hms.harvard.edu/flash/2020/racial-discrimination-in-face-recognition-technology/
+Nicole Starosielski. “Critical Nodes, Cultural Networks: Remapping Guam's Cable Infrastructure.” Amerasia 37.3 (2012): 18–27. Print.
 
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=18dK-laxJL2BtEFU0gN3j7apGHsuLcRMc" width="640" height="480"></iframe>
