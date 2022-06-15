@@ -1,5 +1,5 @@
 ---
-title: "Finding Jackie Robinson"
+title: "Finding a Jackie Robinson"
 excerpt: 'Jackie Robinson was the first African American man to intergrate Major League Baseball, but many tried before him and many came after him. His opening the door for African American ballplayers had tremendous but also negative impacts.'
 overlay_image: "https://upload.wikimedia.org/wikipedia/commons/2/2d/Jackie_Robinson%2C_Brooklyn_Dodgers%2C_1954.jpg"
 ---
