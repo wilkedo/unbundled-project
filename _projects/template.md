@@ -13,7 +13,7 @@ After the Civil War, the nation remained deeply divided and baseball's founding 
 
 With this agreeement Major League owners unformally agreed to not  sign Black baseball players to their team. This agreement helped keep Black baseball players out of the Major Leagues and helped continue segregation in kind not only in baseball but in life. At the same time, it allowed players from the Spanish speaking Americas to cross the color line as labor pools for national leagues began to dwindle with talent. 
 
-image: https://upload.wikimedia.org/wikipedia/commons/9/96/Bud_Fowler.jpg
+![Bud Fowler the First Black Profesional Ball Player](https://upload.wikimedia.org/wikipedia/commons/9/96/Bud_Fowler.jpg) 
 
 ## References
 
